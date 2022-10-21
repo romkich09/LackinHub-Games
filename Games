@@ -1,0 +1,3 @@
+if game.PlaceId == 3956818381 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/romkich09/Ninja-Legends/main/ninja-legends.lua'),true))()
+end
